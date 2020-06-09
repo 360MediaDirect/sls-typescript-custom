@@ -10,3 +10,7 @@ jspm_packages
 
 .build
 coverage
+src/**/*.js
+src/**/*.map
+
+yarn.lock
