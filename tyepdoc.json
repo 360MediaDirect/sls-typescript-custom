@@ -1,0 +1,7 @@
+{
+    "inputFiles": ["./src"],
+    "mode": "modules",
+    "out": "docs",
+    "plugin": "typedoc-neo-theme",
+    "theme": "./node_modules/typedoc-neo-theme/bin/default"
+}
