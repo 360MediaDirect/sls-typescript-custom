@@ -1,5 +1,4 @@
 {
-    "inputFiles": ["./src"],
     "mode": "modules",
     "out": "docs",
     "plugin": "typedoc-neo-theme",
