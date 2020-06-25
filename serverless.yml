@@ -9,6 +9,8 @@ package:
     - __mocks__/**
     - __tests__/**
     - vscode/**
+    - coverage/**
+    - docs/**
 
 custom:
   webpack:
