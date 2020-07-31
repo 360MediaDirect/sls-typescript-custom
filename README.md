@@ -5,8 +5,8 @@
 - Linux or Mac OS
 - Node.js v12+
 - NPM v6+
-- React Native CLI
+- Serverless 1.70+
 
 ## Usage
 
-`npx react-native init ProjectName --template https://github.com/360MediaDirect/react-native-template-typescript/template`
+`serverless create --name ProjectName --template-url https://github.com/360MediaDirect/sls-typescript-custom/tree/master/template`
